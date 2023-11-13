@@ -1,6 +1,6 @@
 # COBOL-Banking-Tranzaction-Project
 
-  This COBOL initiative is formulated with the purpose of handling input records derived from an input file and producing output records in accordance with defined business rules. The program systematically retrieves data from the INP-FILE, conducts processing operations, incorporating updates from the COM-FILE, and subsequently records the outcomes in both the OUT-FILE and REP-FILE. A comprehensive exposition of the project's framework and operational logic follows.
+  This COBOL initiative is formulated with the purpose of handling input records derived from an input file and producing output records in accordance with defined business rules. The program systematically retrieves data from the INP-FILE, conducts processing operations, incorporating updates from the COM-FILE, and subsequently records the outcomes in both the OUT-FILE and REP-FILE.  A thorough presentation of the project's structure and operational logic ensues..
 
   Project Structure:
   
